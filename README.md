@@ -1,2 +1,2 @@
-# iwifi
-iwifi
+# weixin
+angularjs and ionic weixin demo 
